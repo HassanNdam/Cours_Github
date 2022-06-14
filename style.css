@@ -1,2 +1,10 @@
 
 /*CSS Cours html*/
+
+.top-banner{
+    padding:20px 0 20px 0px;
+    background-color: bisque;
+    color: black;
+    width: 100%;
+    text-align: center;
+}
